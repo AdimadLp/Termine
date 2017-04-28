@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Geben sie bitte ihre Zugangsdaten ein!"
+AuthUserfile ".htpass"
+Require valid-user
